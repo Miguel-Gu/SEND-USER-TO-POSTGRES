@@ -8,7 +8,7 @@ Essa aplicação utiliza como linguagem o [Python 3.9](https://www.python.org/).
 
 
 ### Configuração prévia
-Inicialmente, será necessário um banco PostgreSQL em funcionamento que aceite conexões externas. Para instalar e configurar o banco, leia a [documentção](https://www.postgresql.org/docs/current/tutorial-install.html).
+Inicialmente, será necessário um banco PostgreSQL em funcionamento que aceite conexões externas. Para instalar e configurar o banco, leia a [documentação](https://www.postgresql.org/docs/current/tutorial-install.html).
 
 
 Com o banco funcionando, altere a linha 11 do Dockerfile, colocando as informações necessárias para conectar com o banco, de acordo com a configuração feita por você.
