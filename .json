@@ -1,0 +1,12 @@
+{
+  "usuario": {
+    "nome": "Gustavo Miguel da Silva",
+    "email": "emailficticio@gmail.com",
+    "cpf": "00000000000",
+    "datanascimento": "2023-12-15",
+    "cep": "00000-000",
+    "endereco": "Logo ali",
+    "numero": "10",
+    "complemento": "Nenhum"
+  }
+}
